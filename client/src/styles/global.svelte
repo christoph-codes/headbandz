@@ -11,6 +11,7 @@
         margin: 0;
         padding: 0;
         background-color: var(--secondary);
+        overscroll-behavior: none;
     }
     :global(h1,h2,h3,h4,h5,h6,li,a,p) {
         margin: 0 0 0.5rem;

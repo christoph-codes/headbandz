@@ -1,4 +1,4 @@
-<style lang="scss">
+<style type="text/scss">
     .Header {
         background: var(--secondary-dark);
         text-align: center;
