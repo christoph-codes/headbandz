@@ -1,0 +1,1 @@
+<h2>Svelte is pretty easy</h2>

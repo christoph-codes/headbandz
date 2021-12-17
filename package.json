@@ -1,0 +1,17 @@
+{
+  "name": "headbandz",
+  "version": "1.0.0",
+  "author": "Christoph Codes",
+  "description": "The official✔️ home of the Headbandz NFT Collection. The circle is a void. The headband, brings life and opportunity. The opportunities are intentional and limitless.",
+  "scripts": {
+    "start:client": "cd client && yarn dev",
+    "start:server": "cd server && yarn start",
+    "start": "cd server && yarn start & cd client && yarn start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:server": "cd server && yarn install",
+    "install:client": "cd client && yarn install",
+    "install": "cd server && yarn install & cd client && yarn install"
+  },
+  "keywords": ["javascript", "ethereum", "nft", "headbandz"],
+  "license": "ISC"
+}
