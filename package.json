@@ -12,6 +12,15 @@
     "install:client": "cd client && yarn install",
     "install": "cd server && yarn install & cd client && yarn install"
   },
-  "keywords": ["javascript", "ethereum", "nft", "headbandz"],
-  "license": "ISC"
+  "keywords": [
+    "javascript",
+    "ethereum",
+    "nft",
+    "headbandz"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "prettier-plugin-svelte": "^2.5.1"
+  }
 }
